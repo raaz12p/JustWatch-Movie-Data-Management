@@ -95,16 +95,16 @@ This project demonstrates how web scraping can be leveraged to gather and analyz
 ## Data Visualizations
 
 ### 1. Showing the Count of Movies per Genre
-![Bar Chart](1_Showing%20the%20count%20of%20movies%20per%20genre.png)
+![Bar Chart](https://github.com/raaz12p/JustWatch-Movie-Data-Management/blob/main/1_Showing%20the%20count%20of%20movies%20per%20genre.png)
 
 ### 2. Distribution of IMDb Ratings
-![Bar Chart](2_Distribution%20of%20IMDb%20ratings.png)
+![Bar Chart](https://github.com/raaz12p/JustWatch-Movie-Data-Management/blob/main/2_Distribution%20of%20IMDb%20ratings.png)
 
 ### 3. Facet Grid with Histograms
-![Bar Chart](4%20Facet%20Grid%20with%20Histograms.png)
+![Bar Chart](https://github.com/raaz12p/JustWatch-Movie-Data-Management/blob/main/4%20Facet%20Grid%20with%20Histograms.png)
 
 ### 4. Pair Plot of Numeric Features
-![Bar Chart](6%20Pair%20Plot%20of%20Numeric%20Features.png)
+![Bar Chart](https://github.com/raaz12p/JustWatch-Movie-Data-Management/blob/main/6%20Pair%20Plot%20of%20Numeric%20Features.png)
 
 
 
